@@ -7,14 +7,14 @@ This application was built as part of my academic work to understand how real-wo
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The goal of this project is to design and implement a responsive, user-friendly card interface that can be used for item exchange or deal-based workflows.  
 The emphasis is on frontend logic, UI behavior, and maintainable code structure rather than backend complexity.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Card-based UI for displaying items  
 - Responsive layout for different screen sizes  
@@ -24,7 +24,7 @@ The emphasis is on frontend logic, UI behavior, and maintainable code structure 
 
 ---
 
-## 🧠 Design Decisions
+##  Design Decisions
 
 - Chose **Vite** for faster development and build performance  
 - Used **React with TypeScript** to maintain type safety and scalability  
@@ -33,7 +33,7 @@ The emphasis is on frontend logic, UI behavior, and maintainable code structure 
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Vite** – Development & build tool  
 - **React** – UI library  
@@ -43,7 +43,7 @@ The emphasis is on frontend logic, UI behavior, and maintainable code structure 
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 To run this project locally:
 
