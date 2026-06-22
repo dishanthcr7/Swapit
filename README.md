@@ -10,7 +10,7 @@ This application was built as part of my academic work to understand how real-wo
 ##  Project Objective
 
 The goal of this project is to design and implement a responsive, user-friendly card interface that can be used for item exchange or deal-based workflows.  
-The emphasis is on frontend logic, UI behavior, and maintainable code structure rather than backend complexity.
+The emphasis is on frontend logic, UI behavior, and maintainability of the code which helps the user to edit out the necessary fixes needed for the Webapp.
 
 ---
 
