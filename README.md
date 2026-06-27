@@ -37,7 +37,7 @@ The emphasis is on frontend logic, UI behavior, and maintainability of the code 
 
 - **Vite** – Development & build tool  
 - **React** – UI library  
-- **TypeScript** – Type-safe JavaScript  
+- **TypeScript** – Type-safe JavaScript 
 - **Tailwind CSS** – Styling framework  
 - **shadcn/ui** – Reusable UI components  
 
